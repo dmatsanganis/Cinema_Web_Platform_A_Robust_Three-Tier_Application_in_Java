@@ -1,0 +1,7 @@
+CREATE TABLE IF NOT EXISTS Cinemas
+(
+  id SERIAL UNIQUE NOT NULL,
+  number_of_seats BIGINT NOT NULL,
+  cinemais3D BOOLEAN NOT NULL,
+  PRIMARY KEY (id)
+);
