@@ -1,5 +1,9 @@
-# Cinema_Web_Site
-A Cinema-like web site application implemented in Java.
-A 3-tier functional application which have to implement Server-Side Technologies (Servlets and Jsp) and connect with a Database (Sql). 
-A project for my University's Course, Programming on the Internet and World Wide Web (with Java).
- 
+# Cinema_Web_Platform: A Robust Three-Tier Application in Java
+
+## Key Components
+
+1. **Three-Tier Architecture**: The application employs a robust three-tier architecture, segregating the system into the presentation layer, business logic layer, and data storage layer. This approach enhances scalability and maintainability.
+
+2. **Server-Side Technologies**: The application leverages Servlets and JavaServer Pages (JSP) for server-side processing, ensuring efficient data handling and dynamic web content generation.
+
+3. **Database Connectivity**: The application incorporates SQL for data storage and retrieval, demonstrating effective database management practices and seamless integration with Java.
