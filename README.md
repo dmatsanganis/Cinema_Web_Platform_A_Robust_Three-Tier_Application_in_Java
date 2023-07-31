@@ -1,4 +1,4 @@
-# Cinema_Web_Platform: A Robust Three-Tier Application in Java
+# Cinema Web Platform: A Robust Three-Tier Application in Java
 
 ## Key Components
 
