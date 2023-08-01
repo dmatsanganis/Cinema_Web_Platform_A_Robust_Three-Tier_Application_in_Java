@@ -9,3 +9,10 @@ The Cinema Web Platform is a sophisticated Java-based application that replicate
 2. **Server-Side Technologies**: The application leverages Servlets and JavaServer Pages (JSP) for server-side processing, ensuring efficient data handling and dynamic web content generation.
 
 3. **Database Connectivity**: The application incorporates SQL for data storage and retrieval, demonstrating effective database management practices and seamless integration with Java.
+
+
+## Contributors
+
+- [x] [Dimitris Matsanganis](https://github.com/dmatsanganis)
+
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
